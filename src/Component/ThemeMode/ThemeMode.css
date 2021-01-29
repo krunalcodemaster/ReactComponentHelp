@@ -1,0 +1,21 @@
+
+  
+
+.box {
+    width: 300px;
+  }
+  .box h1 {
+    font-size: 20px;
+  }
+  .box.dark-mode {
+    background: black;
+    color: #bbb;
+  }
+  .box.dark-mode h1 {
+    color: white;
+  }
+  .box.dark-mode .checkbox:hover {
+    color: white;
+  }
+  
+  
